@@ -2,7 +2,6 @@
 layout: page
 title: About Onesimus Systems
 permalink: /about/
-menutitle: About
 ---
 
 Onesimus Systems began in Fall 2013 with Dandelion ([source](https://github.com/dragonrider23/dandelion)). Since then many more projects have been created all with the intent of either solving a problem, or learning new techniques.
