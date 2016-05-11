@@ -1,10 +1,10 @@
 # Site settings
-title: dragonrider23 (Lee Keitel)
+title: lfkeitel (Lee Keitel)
 email: keitellf@gmail.com
-description: "Official blog of dragonrider23 (Lee Keitel)."
+description: "Official blog of lfkeitel (Lee Keitel)."
 baseurl: ""
-url: "http://dragonrider23.github.io"
-github_username:  dragonrider23
+url: "http://lfkeitel.github.io"
+github_username:  lfkeitel
 
 # Build settings
 markdown: kramdown

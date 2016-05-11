@@ -9,7 +9,7 @@ Nitrogen is a Lisp-based programming language I created to learn fundamentally h
 
 On this page you will be able to find the docmentation for the builtin functions as well as the Standard Library. You'll also find some examples to play with.
 
-You can find the source code for the Nitrogen interpreter at: [github.com/dragonrider23/nitrogen](https://github.com/dragonrider23/nitrogen)
+You can find the source code for the Nitrogen interpreter at: [github.com/lfkeitel/nitrogen](https://github.com/lfkeitel/nitrogen)
 
 Language Fundamentals
 ---------------------
